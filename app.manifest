@@ -1,6 +1,6 @@
 CACHE MANIFEST
 #
-# Wed Apr 26 11:38:37 UTC 2017
+# Version Wed, May 24, 2017  6:29:29 PM
 #
 
 app.webmanifest
@@ -43,6 +43,7 @@ images/earth.svg
 images/elderDrake.special1Area.svg
 images/fire.svg
 images/fly.svg
+images/flying.svg
 images/front.jpg
 images/heal.svg
 images/ice.svg
